@@ -6,5 +6,5 @@ let b = null // khaali
 let p = Symbol // unique in sense of figma and react component findness
 // number 
 // string
-// bigint
+// bigints
 console.log(typeof null)
