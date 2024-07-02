@@ -27,3 +27,9 @@ const myn2 = array.splice(1,4) // <-- it include all indexes in range and remove
 
 console.log(myn2);
 console.log(array);
+
+
+// array.push(1) <-- add after last element
+//array.pop() <-- remove last element
+// array.unshift(9) <-- add element on top of array
+// array.shift()  <-- remove top element
